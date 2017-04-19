@@ -133,9 +133,10 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
-
+social:
+   GitHub: https://github.com/MasterTF
+   Weibo: http://weibo.com/u/5892078423
+   知乎: http://www.zhihu.com
 
 # Social Links Icons
 # Icon Mapping:
@@ -149,12 +150,13 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  知乎: zhihu
 
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: /images/avatar.png
 
 
 # Table Of Contents in the Sidebar
